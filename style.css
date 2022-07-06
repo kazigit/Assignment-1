@@ -1,0 +1,309 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+.header-1 img{
+    height: 800px;
+    width: 100%;
+}
+.help{
+    top: 20%;
+    left: 25%;
+    position: absolute;
+    color: white;
+    font-size: 60px;
+}
+.need{
+    top: 35%;
+    left: 37%;
+    position: absolute;
+    color: white;
+    font-size: 60px;
+}
+.header-1 p{
+    top: 55%;
+    left: 30%;
+    position: absolute;
+    color: white;
+}
+span{
+    padding-left: 40%;
+}
+.header-1 a{
+    top: 73%;
+    left: 42%;
+    position: absolute;
+    background-color: #F44336;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 18px 40px;
+    border-radius: 8px;  
+}
+.header-2 h1{
+    color: black;
+    text-align: center;
+    padding-top: 55px;
+    font-size: 40px;  
+}
+.header-2 p{
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 65px;
+}
+.price{
+    padding-left: 25%;
+}
+.price h2{
+    color: gray;
+    display: inline;
+    background-color: #f9f9f9;
+    padding: 35px 20px;
+    margin-right: 15px;
+    border-radius: 5px;
+}
+#color-box{
+    color: #f94449;
+    border: 2px solid #f94449;
+    background-color: #ffebea;
+}
+.input-taka{
+    padding-top: 110px;
+    padding-left: 25%;
+}
+.input-taka input[type = "text"]{
+    margin-bottom: 70px;
+    width: 660px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    font-size: 18px;
+}
+.button a{
+    color: white;
+    font-size: 18px;  
+    text-decoration: none;
+    background-color: #F44336;
+    padding: 18px 35px;
+    margin-left: 43%;
+    border-radius: 10px;
+}
+.button{
+    margin-bottom: 120px;
+}
+.header-3 h1{
+    
+    text-align: center;
+    font-size: 40px;  
+}
+.header-3 p{
+    color: black;
+    text-align: center;
+    padding-bottom: 65px;
+    color: gray;
+
+}
+.donate-plan{
+    display: flex;
+}
+.food{
+    background-color: #e6f6fe;
+    margin-left: 120px;
+    width: 25%;
+    height: 300px;
+    margin-bottom: 90px;
+    border-radius: 5px;
+}
+.food h2{
+    padding-left: 25px;
+}
+.food p{
+    padding-right: 15px;
+    padding-left: 25px;
+    text-align: justify;
+}
+.food i{
+    padding-left: 25px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.shelter{
+    margin-left: 40px;
+    width: 25%;
+    height: 300px;
+    margin-bottom: 90px;
+    background-color: #F7E7E7;
+    border-radius: 5px;
+}
+.shelter h2{
+    padding-left: 25px;
+
+}
+.shelter p{
+    padding-right: 15px;
+    padding-left: 25px;
+    text-align: justify;
+
+}
+.shelter i{
+    padding-left: 25px;
+    padding-top: 20px;
+    font-size: 50px;
+
+}
+.education{
+    margin-left: 40px;
+    width: 25%;
+    height: 300px;
+    margin-bottom: 90px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 5px;
+}
+
+.education h2{
+    padding-left: 25px;
+
+}
+.education p{
+    padding-right: 15px;
+    padding-left: 25px;
+    text-align: justify;
+
+}
+.education i{
+    padding-left: 25px;
+    padding-top: 20px;
+    font-size: 50px;
+
+}
+.page-4{
+    display: flex;
+}
+.lives{
+    width: 50%;
+}
+.lives h1{
+    font-size: 40px;
+    padding-left: 15%;
+}
+.lives p{
+    text-align: justify;
+    padding-left: 15%;
+    color: gray;
+
+}
+.lives a{
+    color: white;
+    font-size: 18px;  
+    text-decoration: none;
+    background-color: #F44336;
+    padding: 18px 32px;
+    margin-left: 15%;
+    border-radius: 10px; 
+}
+.donation-image{
+    width: 50%;
+}
+.donation-image img{
+    right: 15%;
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 90px;
+}
+.survive{
+    width: 50%;
+}
+.survive-image{
+    width: 50%;
+}
+.survive-image img{
+    height: 400px;
+    width: 500px;
+    padding-top: 100px;
+    padding-left: 15%;
+    padding-bottom: 90px;
+}
+.survive h1{
+    padding-top: 100px;
+    font-size: 40px;
+
+}
+.survive p{
+    text-align: justify;
+    color: gray;
+
+
+}
+.page-5{
+    display: flex;
+}
+.survive a{
+    color: white;
+    font-size: 18px;  
+    text-decoration: none;
+    background-color: #F44336;
+    padding: 18px 32px;
+    border-radius: 10px; 
+}
+.update h1{
+    
+    text-align: center;
+    font-size: 40px;  
+}
+.update p{
+    color: black;
+    text-align: center;
+    padding-bottom: 45px;
+    color: gray;
+
+}
+.email-input{
+    background-color: antiquewhite;
+    display: flex;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding: 80px 13%;
+    border-radius: 5px;
+}
+.email-input input[type = "email"]{
+    outline: none;
+    border: none;
+    color: black;
+    background-color: #D3D3D3;
+    padding: 15px;
+    padding-right: 100px;
+}
+.email-input ::placeholder{
+    color: black;
+}
+.email-input button{
+    border: none;
+    color: white;
+    background-color: #F44336;
+    padding: 10px 40px;
+}
+.humble{
+    background-color: black;
+    color: cyan;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+span{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+}
+    
+
+
+
