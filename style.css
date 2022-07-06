@@ -94,7 +94,6 @@ span{
     margin-bottom: 120px;
 }
 .header-3 h1{
-    
     text-align: center;
     font-size: 40px;  
 }
@@ -103,7 +102,6 @@ span{
     text-align: center;
     padding-bottom: 65px;
     color: gray;
-
 }
 .donate-plan{
     display: flex;
@@ -139,19 +137,16 @@ span{
 }
 .shelter h2{
     padding-left: 25px;
-
 }
 .shelter p{
     padding-right: 15px;
     padding-left: 25px;
     text-align: justify;
-
 }
 .shelter i{
     padding-left: 25px;
     padding-top: 20px;
     font-size: 50px;
-
 }
 .education{
     margin-left: 40px;
@@ -164,19 +159,16 @@ span{
 
 .education h2{
     padding-left: 25px;
-
 }
 .education p{
     padding-right: 15px;
     padding-left: 25px;
     text-align: justify;
-
 }
 .education i{
     padding-left: 25px;
     padding-top: 20px;
     font-size: 50px;
-
 }
 .page-4{
     display: flex;
@@ -192,7 +184,6 @@ span{
     text-align: justify;
     padding-left: 15%;
     color: gray;
-
 }
 .lives a{
     color: white;
@@ -231,13 +222,10 @@ span{
 .survive h1{
     padding-top: 100px;
     font-size: 40px;
-
 }
 .survive p{
     text-align: justify;
     color: gray;
-
-
 }
 .page-5{
     display: flex;
@@ -250,8 +238,17 @@ span{
     padding: 18px 32px;
     border-radius: 10px; 
 }
-.update h1{
-    
+.fund h1{
+    text-align: center;
+    font-size: 40px; 
+}
+.fund p{
+    color: black;
+    text-align: center;
+    padding-bottom: 30px;
+    color: gray;
+}
+.update h1{  
     text-align: center;
     font-size: 40px;  
 }
@@ -260,7 +257,6 @@ span{
     text-align: center;
     padding-bottom: 45px;
     color: gray;
-
 }
 .email-input{
     background-color: antiquewhite;
